@@ -1,7 +1,6 @@
 <?php
 /**
- * Created by heqiming
- * Mail: heqiming@tp-link.com.cn
+ * Created by messikiller
  * Date: 2016/2/28
  * Time: 17:09
  */
